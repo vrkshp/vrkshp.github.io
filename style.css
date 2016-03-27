@@ -96,6 +96,7 @@
 
 	.header {
 		top:0;
+		background:#000;
 		z-index:0;
 		width:100%;
 		z-index:999;
@@ -111,7 +112,7 @@
 	}
 
 	.header.affix {
-		background:#fff;
+		background:#000;
 		width:100%;
 		top:0;
 		right:0;
@@ -130,7 +131,7 @@
 		margin-top:20px;
 	}
 	.navbar-default .navbar-nav > li > a {
-		color:#000;
+		color:#fff;
 		text-transform:uppercase;
 		font-weight:600;
 	}
@@ -689,6 +690,7 @@
 	################################################################# */
 
 	.about-wrapper {
+		top:50px;
 		display: block;
 		padding: 100px 0;
 		position: relative;
