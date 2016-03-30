@@ -2582,3 +2582,12 @@
 			line-height: 2.8;
 
 			}
+			.about-box ul {
+			    list-style-position: inside;
+					padding:0px;
+			}
+
+			.service-box ul {
+			    list-style-position: inside;
+					padding-left: :80px;
+			}
