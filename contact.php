@@ -31,7 +31,7 @@ if(trim($subject) == '') {
 } else if(trim($comments) == '') {
 	echo '<div class="error_message">Attention! Please enter your message.</div>';
 	exit();
-} 
+}
 
 if(get_magic_quotes_gpc()) {
 	$comments = stripslashes($comments);
@@ -43,7 +43,7 @@ if(get_magic_quotes_gpc()) {
 // Example $address = "joe.doe@yourdomain.com";
 
 //$address = "example@themeforest.net";
-$address = "support@designingmedia.com";
+$address = "maciej.karczewski@gmail.com";
 
 
 // Configuration option.
