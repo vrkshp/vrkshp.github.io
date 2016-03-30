@@ -101,7 +101,7 @@
 		width:100%;
 		z-index:999;
 		position:absolute;
-		padding-top:30px;
+		/* padding-top:30px; */
 		z-index: 999;
 		-webkit-transition: all 0.8s;
 		-moz-transition: all 0.8s;
