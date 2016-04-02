@@ -32,10 +32,6 @@
 	2. SKELETON
 	################################################################# */
 
-	* {
-	  margin: 0;
-	  padding: 0;
-	}
 
 	body {
 		background:#fff;
@@ -755,7 +751,7 @@
 		padding:32px;
 		height:300px;
 		margin:10px !important;
-		background:url(demos/aboutbox1.png) no-repeat left center;
+		background:url(demos/aboutbox1.png) no-repeat right center;
 	}
 
 	.how-box-head.makebg2 {
