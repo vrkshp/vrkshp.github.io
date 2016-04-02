@@ -32,6 +32,11 @@
 	2. SKELETON
 	################################################################# */
 
+	* {
+	  margin: 0;
+	  padding: 0;
+	}
+
 	body {
 		background:#fff;
 		color:#666666;
@@ -2216,6 +2221,7 @@
 		display: inline-block;
 
 	}
+
 
 	.logo-border {
 		border: 1px solid;

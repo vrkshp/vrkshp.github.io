@@ -1222,6 +1222,8 @@ ul,
 ol {
   margin-top: 0;
   margin-bottom: 10px;
+  list-style-position: inside;
+
 }
 ul ul,
 ol ul,
