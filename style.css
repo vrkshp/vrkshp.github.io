@@ -206,7 +206,7 @@
 
 	.title p {
 		letter-spacing:1px;
-		color:#999999;
+		color:#222;
 	}
 
 
@@ -703,7 +703,7 @@
 		}
 	.about-box {
 		margin:40px 0;
-		color:#999999;
+		color:#222;
 		padding:0;
 	}
 
@@ -721,13 +721,13 @@
 
 	.how-box {
 		margin:60px 40px 0;
-		color:#999999;
+		color:#222;
 		padding:0;
 	}
 
 	.how-box-head {
 		margin:40px 0;
-		color:#999999;
+		color:#222;
 		padding:0;
 	}
 
@@ -779,7 +779,7 @@
 	}
 	.service-box {
 		margin:40px 0;
-		color:#999999;
+		color:#222;
 		padding:0;
 	}
 
@@ -1137,7 +1137,7 @@
 
 	.team-box {
 		margin:40px 0;
-		color:#999999;
+		color:#222;
 		padding:0;
 		}
 
@@ -1174,7 +1174,7 @@
 	}
 	.featured-box {
 		margin:0;
-		color:#999999;
+		color:#222;
 		padding:0;
 	}
 
@@ -1292,7 +1292,7 @@
 	}
 	.contact-box {
 		margin:0;
-		color:#999999;
+		color:#222;
 		padding:0;
 	}
 
