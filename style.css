@@ -784,7 +784,7 @@
 	}
 
 	.service-box p {
-		padding-left: 80px;
+		/*padding-left: 80px;*/
 		margin-top: -10px;
 	}
 
@@ -794,7 +794,7 @@
 		text-transform: uppercase;
 		color: #000;
 		font-weight: 500;
-		padding-left: 80px !important;
+		/*padding-left: 80px !important;*/
 	}
 
 	#testimonials .item{
